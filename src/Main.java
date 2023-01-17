@@ -8,7 +8,7 @@ public class Main {
 
 
         System.out.println(now.format(formatter) + "now");
-        System.out.println("Some text");
+        
 
         
 
