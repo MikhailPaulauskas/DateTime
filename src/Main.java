@@ -6,6 +6,9 @@ public class Main {
         DateTimeFormatter formatter = DateTimeFormatter.ofPattern("HH:mm MM/dd");
         LocalDateTime now = LocalDateTime.now();
         int koolling  = 23;
+        if (koolling == 23) {
+            System.out.println("soup");
+        }
         System.out.println(now.format(formatter) + "now");
 
 
