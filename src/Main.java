@@ -9,7 +9,7 @@ public class Main {
         if (koolling == 23) {
             System.out.println("soup");
         }
-        System.out.println(now.format(formatter) + "now");
+        System.out.println(now.format(formatter) + " now");
 
 
         
